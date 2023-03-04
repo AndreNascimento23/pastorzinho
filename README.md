@@ -1,0 +1,2 @@
+# pastorzinho
+Exercicio da lista 
